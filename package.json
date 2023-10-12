@@ -1,0 +1,21 @@
+{
+  "name": "@carconnect-tech/carconnect-pattern-task-body-match",
+  "version": "1.0.0",
+  "description": "This package allows you, through a regular expression, to value the commit message according to your task manager specification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afvs1989/commitlint-pattern-task-body-match"
+  },
+  "keywords": [
+    "Commitlint",
+    "commitlintplugin",
+    "jira",
+    "clickup"
+  ],
+  "author": "Andres Valenzuela",
+  "license": "ISC"
+}
