@@ -3,7 +3,7 @@
 ```
 {
     "devDependencies": {
-        "commitlint-pattern-task-body-match": "^1.0.0",
+        "commitlint-pattern-task-body-match": "^1.0.1",
         "@commitlint/cli": "^17.7.2",
         "@commitlint/config-conventional": "^17.7.0",
         "husky": "^8.0.3"

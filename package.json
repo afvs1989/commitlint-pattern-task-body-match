@@ -1,6 +1,6 @@
 {
   "name": "commitlint-pattern-task-body-match",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package allows you, through a regular expression, to value the commit message according to your task manager specification.",
   "main": "index.js",
   "scripts": {
