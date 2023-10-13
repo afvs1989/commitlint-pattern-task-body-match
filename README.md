@@ -15,6 +15,10 @@
     }
 }
 ```
+## Install Huski
+```
+npx husky install
+```
 ## Huski hook
 ```
 npx husky add .husky/commit-msg 'npx commitlint --edit $1'
